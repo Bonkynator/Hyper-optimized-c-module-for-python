@@ -14,8 +14,8 @@ matrix2=[
 eigenvalues, eigenvectors = matrices.eigen_2x2(matrix1)
 det = matrices.det_2x2(matrix1)
 inverse = matrices.inverse_2x2(matrix1)
-print("Eigenvalues:", eigenvalues)        # [5.0, 2.0]
-print("Eigenvectors Matrix:", eigenvectors) # Normalized vectors
-print("Determinant:", det)                # 10.0
+print("Eigenvalues:", eigenvalues)        
+print("Eigenvectors Matrix:", eigenvectors) 
+print("Determinant:", det)               
 print("Inverse: ", inverse)
 print(matrices.matmul_2x2(matrix1, matrix2))
