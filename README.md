@@ -24,6 +24,7 @@ This module was engineered to bypass Python's memory allocation bottlenecks and 
 ├── install.py         # Automated 1 click build and installation script
 ├── test.py            # Python implementation and benchmark script
 └── README.md          # Documentation
+```
 ---
 ## System Prerequisites
 Because this library compiles native C++ code, your system must have Python 3.x and a standard C++ compiler installed before running the installation scripts.
