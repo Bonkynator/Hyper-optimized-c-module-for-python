@@ -1,1 +1,1 @@
-# Hyper-optimized-c-module-for-python
+# Hyper-optimized-C++-module-for-python
